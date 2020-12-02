@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 #random password generator
-
+echo "PASSWORD GENERATOR"
 read keys
 for i in $(seq 1 5)
 do
